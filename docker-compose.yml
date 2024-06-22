@@ -1,6 +1,6 @@
 version: '3'
 services:
   server:
-    image: dht0120/docker-ci-basic:latest
+    image: dht0120/lab12:latest
     ports:
       - 8080:80
